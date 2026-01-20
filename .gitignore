@@ -1,0 +1,14 @@
+# InfluxDB data
+influxdb/
+*.bolt
+*.sqlite
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
